@@ -1,0 +1,61 @@
+*{
+margin: 0px;
+padding: 0px;
+box-sizing: border-box;
+}
+
+
+.container{
+    width: 50%;
+    height: 70%;
+    margin: 50px auto;
+    border: 1px solid gray;
+     display: flex;
+     flex-direction: column;
+     justify-content: center;
+     align-items: center;
+     background-color: darkblue;
+}
+h1{
+    color: rgb(9, 235, 243);
+    margin: 50px 50px 20px 50px;
+    font-size: 2.5rem;
+    font-weight: 1000;
+}
+
+.watch{
+    margin: 20px;
+    color: aliceblue;
+    font-size: 1.5rem;
+
+}
+
+.watch span{
+    color:wheat;
+    font-size: 1.5rem;
+}
+
+.button_all{
+    margin-bottom: 20px;
+}
+
+#button_start{
+    margin: 0px 10px;
+    font-size: 24px;
+    width: 70px;
+    border-radius: 4px;
+}
+
+#button_stop{
+    margin: 0px 10px;
+    font-size: 24px;
+    width: 70px;
+    border-radius: 4px;
+}
+
+#button_reset{
+    margin: 0px 10px;
+    font-size: 24px;
+    width: 70px;
+    border-radius: 4px;
+}

@@ -1,0 +1,20 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+
+}
+
+.container{
+    width: 400px;
+    height: auto;
+    border: 2px solid  gray;
+    margin: 50px auto;
+
+
+
+}
+
+.heading{
+    text-align: center;
+}
